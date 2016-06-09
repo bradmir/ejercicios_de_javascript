@@ -16,7 +16,7 @@ return cont_a;
 }
 
 var frase="hola horacio";
-var letra="o";
-;console.log("la cantidad de o es :");
+var letra="l";
+;console.log("la cantidad de l es :");
 console.log(contarA(frase,letra));
 //console.log(contarA(frase,letra));

@@ -18,16 +18,6 @@ return caracteristicas;
 
 }
 
-/*
-:function(){
-
-var dur="la pelicula : " + pelicula.titulo+" de duracion: "+pelicula.duracion+"min";
-return dur;
-}
-
-}
-console.log(pelicula.dura());
-*/
 }
 console.log(vehiculo.caracteristicas_vehiculo());
 
